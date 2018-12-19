@@ -372,7 +372,7 @@ ApplicationWindow {
 
                 GlowingLabel {
                     id: timeLabel
-                    text: qsTr("11:02")
+                    text: qsTr("11:30")
                     font.pixelSize: fontSizeExtraLarge
 
                     Layout.alignment: Qt.AlignHCenter
@@ -386,7 +386,7 @@ ApplicationWindow {
                 }
 
                 Label {
-                    text: qsTr("10/12/2018")
+                    text: qsTr("19/12/2018")
                     color: colorLightGrey
                     font.pixelSize: fontSizeMedium
 
